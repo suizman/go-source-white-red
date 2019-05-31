@@ -1,0 +1,21 @@
+{
+    "name": "go-source-white-red",
+    "displayName": "Go - Sources White Red",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Go - Sources White Red",
+                "uiTheme": "vs",
+                "path": "./themes/suizman-color-theme.json"
+            }
+        ]
+    }
+}
