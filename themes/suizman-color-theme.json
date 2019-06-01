@@ -11,10 +11,14 @@
 		"editor.inactiveSelectionBackground": "#d4d4c6",
 		"editor.lineHighlightBackground": "#efefef",
 		"editor.rangeHighlightBackground": "#efefef",
-		"editor.selectionBackground": "#b2d7f0",
+		"editor.selectionBackground": "#ff5555",
 		"editorCursor.foreground": "#000000",
 		"peekViewEditor.matchHighlightBackground": "#ffff00",
 		"peekViewResult.matchHighlightBackground": "#ffff00",
+		"editorLink.activeForeground": "#cf1616",
+		"statusBar.background": "#973131",
+		"tab.hoverBackground": "#cf1616",
+		"dropdown.background": "#cf1616"
 		//"activityBar.background": "#2c2c2c",
 		//"activityBar.dropBackground": "#ffffff1f",
 		//"activityBar.foreground": "#ffffff",
@@ -71,7 +75,6 @@
 		//"editorInfo.foreground": "#008000",
 		//"editorLineNumber.activeForeground": "#0b216f",
 		//"editorLineNumber.foreground": "#237893",
-		//"editorLink.activeForeground": "#0000ff",
 		//"editorMarkerNavigation.background": "#ffffff",
 		//"editorMarkerNavigationError.background": "#d60a0a",
 		//"editorMarkerNavigationInfo.background": "#008000",
@@ -273,7 +276,7 @@
 		{
 			"scope": "token.info-token",
 			"settings": {
-				"foreground": "#316bcd"
+				"foreground": "#43cd31"
 			}
 		},
 		{
